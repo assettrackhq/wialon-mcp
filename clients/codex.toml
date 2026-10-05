@@ -1,0 +1,8 @@
+# ~/.codex/config.toml
+# Then sign in once: `codex mcp login fleetai` opens Wialon's login page.
+[mcp_servers.fleetai]
+url = "https://ai.theassettrack.com/mcp"
+
+# With a Wialon access token instead of signing in: put it in WIALON_TOKEN in
+# the environment Codex starts in, and add
+# bearer_token_env_var = "WIALON_TOKEN"

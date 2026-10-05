@@ -1,0 +1,15 @@
+{
+  "name": "wialon-mcp",
+  "description": "The Wialon MCP server and agent skill, as a Claude Code plugin.",
+  "owner": {
+    "name": "Asset Track",
+    "url": "https://theassettrack.com"
+  },
+  "plugins": [
+    {
+      "name": "wialon",
+      "source": "./",
+      "description": "Ask your Wialon fleet questions from Claude Code: the read-only FleetAI MCP server and its skill."
+    }
+  ]
+}

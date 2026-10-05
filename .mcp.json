@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "fleetai": {
+      "type": "http",
+      "url": "https://ai.theassettrack.com/mcp"
+    }
+  }
+}

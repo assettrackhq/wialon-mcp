@@ -1,0 +1,26 @@
+{
+  "name": "wialon",
+  "displayName": "Wialon (FleetAI)",
+  "version": "2.1.0",
+  "description": "Wialon MCP server and skill for Claude Code: ask your Wialon fleet about positions, trips, fuel fills and drains, driving behaviour, idling, geofence visits, the nearest vehicle, a daily digest, drivers, service intervals and reports. Sign in with your Wialon account; read-only.",
+  "author": {
+    "name": "Asset Track",
+    "url": "https://theassettrack.com"
+  },
+  "homepage": "https://aichat.theassettrack.com/mcp",
+  "repository": "https://github.com/assettrackhq/wialon-mcp",
+  "license": "MIT",
+  "keywords": [
+    "wialon",
+    "wialon-api",
+    "mcp",
+    "fleet-management",
+    "telematics",
+    "gps-tracking",
+    "fleet",
+    "ai-agent",
+    "eco-driving",
+    "fuel-theft",
+    "geofence"
+  ]
+}

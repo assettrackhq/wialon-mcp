@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "fleetai": {
+      "command": "npx",
+      "args": ["-y", "mcp-remote", "https://ai.theassettrack.com/mcp"]
+    }
+  }
+}
